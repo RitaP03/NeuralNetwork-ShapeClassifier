@@ -1,0 +1,35 @@
+A) start
+todos exemplos para train -> dividetrain
+alterar:
+- neuronios e camadas
+registar:
+- precisao global net
+
+B) train
+alterar:
+- neuronios e camadas
+- funcoes treino
+- funcoes ativacao
+- racio treino/validacao/teste
+regista
+- precisao global net
+- precisao global teste
+Guardar:
+- 3 melhores redes
+
+C) todas
+testar com pasta 'test' as 3 melhores redes
+e guardar precisão teste e matriz confusao
+---
+treinar e testar com pasta 'test' as 3 melhores redes
+registar:
+- precisao global e teste
+Apos treino
+registar precisões de teste
+---
+treinar e testar todas as pastas as 3 melhores redes
+registar:
+- precisao global e teste
+Apos treino
+registar precisões de teste
+Guardar as 3 melhores redes
